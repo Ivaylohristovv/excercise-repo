@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Programm Basics Exams\DrawFox\bin\Debug\DrawFox.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Programm Basics Exams\DrawFox\bin\Debug\DrawFox.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Programm Basics Exams\DrawFox\bin\Debug\DrawFox.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Programm Basics Exams\DrawFox\obj\Debug\DrawFox.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Programm Basics Exams\DrawFox\obj\Debug\DrawFox.pdb
